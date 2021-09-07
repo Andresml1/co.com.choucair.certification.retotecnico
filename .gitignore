@@ -1,0 +1,9 @@
+.idea/
+
+.gradle/
+
+*.iml
+
+*.iws
+
+*.editorconfig
